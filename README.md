@@ -1,6 +1,6 @@
 # AI Knowledge Assistant
 
-A **RAG (Retrieval-Augmented Generation)** project built with **FastAPI, Gemini API, Gemini Embeddings and ChromaDB**.
+Built a **RAG (Retrieval-Augmented Generation)** project built with **FastAPI, Gemini API, Gemini Embeddings and ChromaDB**.
 
 ## Architecture
 
