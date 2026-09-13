@@ -46,7 +46,7 @@ FastAPI Response
 
 * **FastAPI** — REST API
 * **Gemini Embedding Model** — text → vector
-* **Gemini 2.5 Flash** — answer generation
+* **Gemini 3.7 Flash** — answer generation
 * **ChromaDB** — vector storage and similarity search
 * **Pydantic** — request/response validation
 * **python-dotenv** — environment variables
